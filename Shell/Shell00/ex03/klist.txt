@@ -1,0 +1,5 @@
+Credentials cache: API:2824AB79-FDE7-4929-9986-BEEB2B477DD3
+        Principal: ellarbi@42.FR
+
+  Issued                Expires               Principal
+Aug 26 08:39:52 2019  Sep  2 08:39:52 2019  krbtgt/42.FR@42.FR
