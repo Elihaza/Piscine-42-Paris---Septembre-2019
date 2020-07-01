@@ -68,3 +68,8 @@ void	ft_putnbr_base(int nbr, char *base)
 			ft_putchar(base[res[i]]);
 	}
 }
+
+int main()
+{
+	ft_putnbr_base(03, "0123456789abcdef");
+}
